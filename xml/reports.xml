@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <name>java</name>
+    <price>10000 đồng</price>
+  </book>
+  <book>
+    <name>php</name>
+    <price>1999 $</price>
+  </book>
+  <book>
+    <name>HTML</name>
+    <price>20000đồng</price>
+  </book>
+</books>

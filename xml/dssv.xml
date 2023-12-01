@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classroom>
+    <student>
+        <id>1</id>
+        <name>Nguyen Van Hung</name>
+        <dob>2000-01-01</dob>
+        <gender>Male</gender>
+        <grade>10</grade>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Tran Thi Binh</name>
+        <dob>2001-05-15</dob>
+        <gender>Female</gender>
+        <grade>11</grade>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Le Van Luyen</name>
+        <dob>1999-09-30</dob>
+        <gender>Male</gender>
+        <grade>12</grade>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Pham Thi Thuy</name>
+        <dob>2002-03-22</dob>
+        <gender>Female</gender>
+        <grade>10</grade>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Hoang Van Nam</name>
+        <dob>2000-07-12</dob>
+        <gender>Male</gender>
+        <grade>11</grade>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Vo Thi Trang</name>
+        <dob>2001-11-05</dob>
+        <gender>Female</gender>
+        <grade>12</grade>
+    </student>
+    <student>
+        <id>7</id>
+        <name>Truong Van Loi</name>
+        <dob>1999-04-18</dob>
+        <gender>Male</gender>
+        <grade>10</grade>
+    </student>
+    <student>
+        <id>8</id>
+        <name>Nguyen Thi Hang</name>
+        <dob>2002-08-09</dob>
+        <gender>Female</gender>
+        <grade>11</grade>
+    </student>
+    <student>
+        <id>9</id>
+        <name>Do Van Tuan</name>
+        <dob>2000-12-03</dob>
+        <gender>Male</gender>
+        <grade>12</grade>
+    </student>
+    <student>
+        <id>10</id>
+        <name>Nguyen Hao Name</name>
+        <dob>2001-02-14</dob>
+        <gender>Male</gender>
+        <grade>10</grade>
+    </student>
+</classroom>
